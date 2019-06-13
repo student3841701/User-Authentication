@@ -1,4 +1,4 @@
-# User-Authentication #
+# User Authentication #
 
 Create different user authentication in shiny dashboard. 
 
