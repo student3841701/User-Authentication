@@ -1,6 +1,6 @@
 # User-Authentication #
 
-Create different user authentication in different shiny dashboard. 
+Create different user authentication in shiny dashboard. 
 
 This app allows different user permissions to different authentication pages whithin shinydashboard framework.
 
